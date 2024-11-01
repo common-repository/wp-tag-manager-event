@@ -1,0 +1,56 @@
+# Action
+msgid "Action"
+msgstr "AActionione"
+
+# Add Tag
+msgid "Add Tag"
+msgstr "Add Tag"
+
+# Category
+msgid "Category"
+msgstr "Category"
+
+# Class
+msgid "Class"
+msgstr "Class"
+
+# Element
+msgid "Element"
+msgstr "Element"
+
+# Indicates the Action to Trace
+msgid "Indicates the Action to Trace"
+msgstr "Indicates the Action to Trace"
+
+# Indicates the Category to Trace
+msgid "Indicates the Category to Trace"
+msgstr "Indicates the Category to Trace"
+
+# Indicates the Element to Trace
+msgid "Indicates the Element to Trace"
+msgstr "Indicates the Element to Trace"
+
+# Indicates the Label to Trace
+msgid "Indicates the Label to Trace"
+msgstr "Indicates the Label to Trace"
+
+# Indicates the Page to Monitor
+msgid "Indicates the Page to Monitor"
+msgstr "Indicates the Page to Monitor"
+
+# Label
+msgid "Label"
+msgstr "Label"
+
+# Selector
+msgid "Selector"
+msgstr "Selector"
+
+# Supporto
+msgid "For support or specific requests contact:"
+msgstr "For support or specific requests contact:"
+
+
+# Text
+msgid "Text"
+msgstr "Text"
